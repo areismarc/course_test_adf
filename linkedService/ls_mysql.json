@@ -12,7 +12,7 @@
 		"type": "MySql",
 		"typeProperties": {
 			"connectionString": "server=127.0.0.1;port=3306;database=@{linkedService().dbname};user=root;sslmode=1;usesystemtruststore=0",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJhM2ZiMWM2ZS1hZTU4LTQyOGEtYWY4MC02MTJiZDA5NDIyZmQiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIxOTY3NDJmOC0wM2FiLTQwNjUtYWQ1Yy02NGIwNGZhZDY3ZGIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "ir-selfhosted-azure",
