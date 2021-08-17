@@ -9,7 +9,7 @@
 			"tenant": "0a0a7bc1-e1a1-43c9-80f0-64c1235ccc49",
 			"servicePrincipalId": "cd3bb8a2-875f-4092-99d3-23506585bb37",
 			"servicePrincipalCredentialType": "ServicePrincipalKey",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFERlRFU1RVREVNWV8yZWMwN2YyZC1iMGY3LTRjNzYtYjRkNS1jNzk1YmIzYjRiNGQiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkFERlRFU1RVREVNWV81NDdhYWUyMC1kYzFmLTQwYzItOGI2Ni1mNWZmNDkzODAxZmUiDQp9"
 		}
 	}
 }
