@@ -1,0 +1,9 @@
+{
+	"name": "adftestudemy",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a48ca788-5e69-4acd-ab0a-f40c8f48e4c7",
+		"tenantId": "0a0a7bc1-e1a1-43c9-80f0-64c1235ccc49"
+	}
+}
